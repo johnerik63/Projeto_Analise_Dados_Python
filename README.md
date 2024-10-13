@@ -64,13 +64,13 @@ Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o cód
 
 
 ```bash
-https://github.com/pedrohenrique3dk/Projeto_Analise_Dados_Python/blob/main/Projeto.ipynb
+https://github.com/johnerik63/Projeto_Analise_Dados_Python/blob/main/Projeto.ipynb
 ```
 ## Todos os Arquivos do Repositório 🗃️
 Você pode ter acesso a todos os arquivos deste repositório no seu computador, basta clonar ele no link abaixo. 
 
 ```bash
-https://github.com/pedrohenrique3dk/Projeto_Analise_Dados_Python/tree/main
+https://github.com/johnerik63/Projeto_Analise_Dados_Python/tree/main
 ```
 
 </div>
@@ -84,7 +84,7 @@ https://github.com/pedrohenrique3dk/Projeto_Analise_Dados_Python/tree/main
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Projeto_Analise_Dados_Python/blob/main/Projeto.ipynb"><img src="https://github.com/user-attachments/assets/e75bd5a0-e733-449b-8161-7f70e9c10636" alt = "codigo" width="400" height="250" max-width = 100%></a>&nbsp;&nbsp;  <a href="https://github.com/pedrohenrique3dk/Projeto_Analise_Dados_Python/tree/main/graficos"><img src="https://github.com/user-attachments/assets/2bfa731f-de2a-454d-8a79-81ed9b64b539" alt = "codigo" width="400" height="250" max-width=100%></a>
+<a href="https://github.com/johnerik63/Projeto_Analise_Dados_Python/blob/main/Projeto.ipynb"><img src="https://github.com/user-attachments/assets/e75bd5a0-e733-449b-8161-7f70e9c10636" alt = "codigo" width="400" height="250" max-width = 100%></a>&nbsp;&nbsp;  <a href="https://github.com/johnerik63/Projeto_Analise_Dados_Python/tree/main/graficos"><img src="https://github.com/user-attachments/assets/2bfa731f-de2a-454d-8a79-81ed9b64b539" alt = "codigo" width="400" height="250" max-width=100%></a>
 
 ---
 
@@ -111,6 +111,6 @@ ___
 ## Contatos 📞
 
  
-  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](pedrohenriqueufpa2018@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/pedro3dkhenrique/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/pedrohenrique3dk)
+  [![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](johnerik63@gmail.com) [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/johnerik63/) [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/johnerik63)
   
 
